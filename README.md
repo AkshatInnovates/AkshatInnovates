@@ -2,7 +2,7 @@
 # 💫 About Me:
 🔭 I’m currently working on building real-world Data Science projects and improving my problem-solving skills.<br>👯 I’m looking to collaborate on innovative tech projects related to Data Science and Web Development.<br>🤝 I’m looking for help with advanced Machine Learning concepts and system design.<br>🌱 I’m currently learning Data Science, DSA (Java), and exploring tools like Hadoop and Databricks.<br>💬 Ask me about Python, Data Analysis, Machine Learning basics, and DSA.<br>⚡ Fun fact: I enjoy simplifying complex concepts and learning something new every single day.
 
-
+https://camo.githubusercontent.com/ea1d8f76da965e6d516eb8c5aabedda58231ef1a1b480f902a1362a04bbaa01f/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f312a7a566e574a7479474f585f6b5549446d3663634366512e676966
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshatjain7609) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshat-jain-7a9314260) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Akshat Jain) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AkshatJain34559) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jn.akshat.11@gmail.com) 
 
